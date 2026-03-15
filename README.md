@@ -9,16 +9,28 @@
           "sourceGuE": [
             "http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8"
           ],
-          "subtitleGuE": "By Blender Channel",
+          "subtitleGuE": "All Channel",
+          "numberGuE": "621",
           "thumbGuE": "https://od.lk/s/M18yODM0MzU3ODFf/Tvge.png",
           "titleGuE": "TVGE"
         },
+         {
+          "descriptionGuE": "Sol TV est une télévision chretienne basée à Guinee",
+          "sourceGuE": [
+            "https://stream.solmediaeg.com/soltv/soltv.m3u8"
+          ],
+          "subtitleGuE": "All Channel",
+          "numberGuE": "622",
+          "thumbGuE": "https://od.lk/s/NDZfOTEzNTg1Mzhf/soltv.png",
+          "titleGuE": "SOL TV"
+        },
         {
-          "descriptionGuE": "ASONGA TV est une télévision chretienne basée à Conakry",
+          "descriptionGuE": "ASONGA TV est une télévision chretienne basée à Guinee",
           "sourceGuE": [
             "https://86060.global.ssl.fastly.net/5ec1843635bd933ad25fe22e/live_e887acc04f7f11edb82e9f05583e4727/index.fmp4.m3u8"
           ],
-          "subtitleGuE": "By Blender Channel",
+          "subtitleGuE": "All Channel",
+          "numberGuE": "623",
           "thumbGuE": "https://od.lk/s/NzNfODAwOTI2Njlf/asonga.jpeg",
           "titleGuE": "ASONGA TV"
         }
